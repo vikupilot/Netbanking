@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+
+.mytable{
+	
+	width: 1366px;
+	background-color: silver;
+	position: relative;
+	margin-top: 50px;
+	
+}
